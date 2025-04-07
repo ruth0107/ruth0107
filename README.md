@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋Hey there! I'm a tech enthusiast.<br>🤖 Into AI and Automation.<br>👨‍💻 Helping businesses on the side — because why not?<br>🎧 Music + code is my vibe.<br>🚀 Always building, always learning.
 
 
