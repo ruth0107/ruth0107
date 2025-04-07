@@ -1,6 +1,6 @@
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
       <h1>About Me:</h1>
       👋Hey there! I'm a tech enthusiast.<br>
       🤖 Into AI and Automation.<br>
@@ -8,8 +8,8 @@
       🎧 Music + Build is my vibe.<br>
       🚀 Always building, always learning.
     </td>
-    <td width="50%" valign="top">
-      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width:80%; max-width:600px; height:auto;">
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width:100%; max-width:600px; height:auto; border-radius: 8px;">
     </td>
   </tr>
 </table>
