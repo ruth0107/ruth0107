@@ -9,7 +9,7 @@
       🚀 Always building, always learning.
     </td>
     <td width="50%" valign="top">
-      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width:50%; max-width:600px; height:auto;">
+      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width:80%; max-width:600px; height:auto;">
     </td>
   </tr>
 </table>
