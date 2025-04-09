@@ -1,18 +1,22 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse; height: 100%;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none; padding-right: 20px;">
       <h1>About Me:</h1>
       👋Hey there! I'm a tech enthusiast.<br>
       🤖 Into AI and Automation.<br>
-      👨‍💻 Helping businesses on the side — because why not?<br>
       🎧 Music + Code is my vibe.<br>
       🚀 Always building, always learning.
     </td>
-    <td width="40%" valign="top" style="border: none;">
-      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width:100%; max-width:200px; height:auto; border-radius: 8px;">
+    <td width="40%" style="border: none;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"
+             style="height:auto; border-radius: 8px; width: 270px">
+      </div>
     </td>
   </tr>
 </table>
+
+
 
 
 # 🌐 Socials:
