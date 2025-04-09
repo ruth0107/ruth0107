@@ -2,8 +2,9 @@
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none; padding-right: 20px;">
       <h1>About Me:</h1>
-      👋Hey there! I'm a tech enthusiast.<br>
+      👋 Hey there! I'm a tech enthusiast.<br>
       🤖 Into AI and Automation.<br>
+      😉 Always trying something new - because why not?.<br>
       🎧 Music + Code is my vibe.<br>
       🚀 Always building, always learning.
     </td>
