@@ -10,7 +10,7 @@
     <td width="40%" style="border: none;">
       <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
         <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"
-             style="height:auto; border-radius: 8px; width: 270px">
+             style="width:100%; max-width:600px; height:auto; border-radius: 8px;">
       </div>
     </td>
   </tr>
