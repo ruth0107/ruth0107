@@ -73,5 +73,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📂 Review My Work:
-You can review my work here 👉 [GitHub Profile](https://github.com/ruth0107?tab=repositories)
+You can review my work here 👉 [GitHub Repositories.](https://github.com/ruth0107?tab=repositories)
 
