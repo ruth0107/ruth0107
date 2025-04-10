@@ -39,7 +39,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:10px;">Resume Analyzer</td>
+      <td style="padding:10px;">Resume Tracking</td>
       <td style="padding:10px;">Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering.</td>
       <td style="padding:10px;"></td>
       <td style="padding:10px;"></td>
@@ -69,6 +69,20 @@
     <tr>
       <td style="padding:10px;">Music Gen using LSTM</td>
       <td style="padding:10px;">Generates Music of Jazz and Piano Music type. Trained on MIDI files  </td>
+      <td style="padding:10px;"></td>
+      <td style="padding:10px;"></td>
+      <td style="padding:10px;"></td>
+    </tr>
+     <tr>
+      <td style="padding:10px;">Travel Buddy Matcher</td>
+      <td style="padding:10px;">Socializing Platform for Travel Enthusiast to connect with like minded people. </td>
+      <td style="padding:10px;"></td>
+      <td style="padding:10px;"></td>
+      <td style="padding:10px;"></td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">Transactional Fraud Detetction </td>
+      <td style="padding:10px;">Classification Summarization of models trained on Transaction data  </td>
       <td style="padding:10px;"></td>
       <td style="padding:10px;"></td>
       <td style="padding:10px;"></td>
