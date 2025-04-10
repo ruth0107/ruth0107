@@ -60,13 +60,11 @@
 
 # 📝 Research & Achievements:
 <div style="display:flex; justify-content:center; align-items:center; gap:20px;">
-  <a href="[Google Drive Link for Research Papers]" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Research Papers</b></a> 
+  <a href="https://drive.google.com/drive/folders/1xn1lhXHpw4r5yvo0gi2s1pfXK3XkblgZ?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Research Papers</b></a> 
   | 
-  <a href="[Google Drive Link for Tech Achievements]" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Tech Achievements</b></a> 
-  | 
-  <a href="[Google Drive Link for Resume]" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Resume</b></a> 
-  | 
-  <a href="[Google Drive Link for Cover Letter]" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Cover Letter</b></a> 
+  <a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Tech Achievements</b></a> 
+  |  
+  <a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Turtil Cover Letter</b></a> 
 </div>
 
 # ✍️ Dev Quotes:
