@@ -102,61 +102,51 @@ You can review my other work here 👉 [GitHub Repositories.](https://github.com
   <thead style="background-color: #f2f2f2;">
     <tr>
       <th>📚 Category</th>
-      <th>📝 Title</th>
+      <th>📝 Titles</th>
       <th>🔗 Link</th>
     </tr>
   </thead>
   <tbody>
     <!-- Research Papers -->
     <tr>
-      <td>📄 Research Paper</td>
+      <td rowspan="3">📄 Research Papers</td>
       <td>🆘 Enhancing Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
+      <td rowspan="3"><a href="https://drive.google.com/drive/folders/1xn1lhXHpw4r5yvo0gi2s1pfXK3XkblgZ?usp=sharing" target="_blank">📂 View Papers</a></td>
     </tr>
     <tr>
-      <td>🎹 Research Paper</td>
       <td>🎼 Machine Learning Project: Jazz Piano Music Generation & Validation</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
     <tr>
-      <td>🧠 Review Paper</td>
       <td>🤖 The Algorithmic Recruiter: Navigating AI ATS Systems, Ethical Concerns, and the Future of Hiring</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
     <!-- Achievements -->
     <tr>
-      <td>🏆 Hackathon</td>
+      <td rowspan="2">🏆 Achievements</td>
       <td>🥇 Winner - Webthon 2.0 (12hr Long Hackathon)</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
+      <td rowspan="2"><a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank">🏅 View Achievements</a></td>
     </tr>
     <tr>
-      <td>🎓 Symposium</td>
       <td>🖼️ Poster Presentation - Tech Symposium 2025</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
     <!-- Certifications -->
     <tr>
-      <td>📜 Certification</td>
+      <td rowspan="4">📜 Certifications</td>
       <td>🎓 CS109xa: Machine Learning & AI with Python from Harvard | EDX</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
+      <td rowspan="4"><a href="https://drive.google.com/drive/folders/13iktmzm6OiLOf2VG6hHdOHqaRPjJIIA0?usp=sharing" target="_blank">🎖️ View Certifications</a></td>
     </tr>
     <tr>
-      <td>📜 Certification</td>
       <td>📊 Introduction to Data Science - Cisco Skills for All</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
     <tr>
-      <td>📜 Certification</td>
       <td>☁️ AWS Academy Cloud Foundations [105872]</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
     <tr>
-      <td>📜 Certification</td>
       <td>🌐 Google Cloud Computing Foundations Certificate (4 Badges Completed)</td>
-      <td><a href="#" target="_blank">🔗 View</a></td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 
