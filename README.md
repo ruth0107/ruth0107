@@ -126,7 +126,7 @@ You can review my other work here 👉 [GitHub Repositories.](https://github.com
       <td rowspan="2"><a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank">🏅 View Achievements</a></td>
     </tr>
     <tr>
-      <td>🖼️ Poster Presentation - Tech Symposium 2025</td>
+      <td>🖼️ TResearch Embedded Learning Poster Symposium</td>
     </tr>
     <!-- Certifications -->
     <tr>
