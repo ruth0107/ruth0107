@@ -64,7 +64,7 @@
   | 
   <a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Tech Achievements</b></a> 
   |  
-  <a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Turtil Cover Letter</b></a> 
+  <a href="https://drive.google.com/drive/folders/13iktmzm6OiLOf2VG6hHdOHqaRPjJIIA0?usp=sharing" target="_blank" style="text-decoration:none; color:#007BFF;"><b>Turtil Cover Letter</b></a> 
 </div>
 
 # ✍️ Dev Quotes:
