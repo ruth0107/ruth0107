@@ -6,7 +6,7 @@
       🤖 Into AI and Automation.<br>
       😉 Always trying something new - because why not?.<br>
       🎧 Music + Code is my vibe.<br>
-      🚀 Always building, always learning.
+      🚀 Always building, always learning. 
     </td>
     <td width="40%" style="border: none;">
       <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
@@ -73,4 +73,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📂 Review My Work:
-You can review my work here 👉 [GitHub Profile]([https://github.com/ruth0107?tab=repositories])
+You can review my work here 👉 [GitHub Profile](https://github.com/ruth0107?tab=repositories)
+
