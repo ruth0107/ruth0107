@@ -86,7 +86,7 @@
       <td style="padding:10px;">Classification Summarization of models trained on transaction data.</td>
       <td style="padding:10px;">Python, Scikit-learn, Pandas, PyTorch</td>
       <td style="padding:10px;">Precision-Recall AUC Score</td>
-      <td style="padding:10px;"><a href="#" target="_blank">🔗 View Repository</a></td>
+      <td style="padding:10px;"><a href="https://github.com/ruth0107/Transacxtional-Fraud-Detection-Using-Popular-Algos" target="_blank">🔗 View Repository</a></td>
     </tr>
   </tbody>
 </table>
