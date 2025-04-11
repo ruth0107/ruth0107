@@ -75,13 +75,6 @@
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Music-Gen-Validation" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
-      <td style="padding:10px;">🧳 Travel Buddy Matcher</td>
-      <td style="padding:10px;">Socializing Platform for Travel Enthusiasts to connect with like-minded people.</td>
-      <td style="padding:10px;">HTML, CSS, JS, PHP, XAMPP Apache Server, MySQL</td>
-      <td style="padding:10px;">User Engagement Rate</td>
-      <td style="padding:10px;"><a href="#" target="_blank">🔗 View Repository</a></td>
-    </tr>
-    <tr>
       <td style="padding:10px;">💳 Transactional Fraud Detection</td>
       <td style="padding:10px;">Classification Summarization of models trained on transaction data.</td>
       <td style="padding:10px;">Python, Scikit-learn, Pandas, PyTorch</td>
