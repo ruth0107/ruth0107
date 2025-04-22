@@ -104,7 +104,7 @@ You can review my other work here 👉 [GitHub Repositories.](https://github.com
     <tr>
       <td rowspan="3">📄 Research Papers</td>
       <td>🆘 Enhancing Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking</td>
-      <td rowspan="3"><a href="https://drive.google.com/drive/folders/1xn1lhXHpw4r5yvo0gi2s1pfXK3XkblgZ?usp=sharing" target="_blank">📂 View Papers</a></td>
+      <td rowspan="3"><a href="https://drive.google.com/drive/folders/1vN-ASkjCtOvK3ogFCUMsXcyrOHG_SFvh?usp=sharing" target="_blank">📂 View Papers</a></td>
     </tr>
     <tr>
       <td>🎼 Machine Learning Project: Jazz Piano Music Generation & Validation</td>
@@ -116,16 +116,19 @@ You can review my other work here 👉 [GitHub Repositories.](https://github.com
     <tr>
       <td rowspan="2">🏆 Achievements</td>
       <td>🥇 Winner - Webthon 2.0 (12hr Long Hackathon)</td>
-      <td rowspan="2"><a href="https://drive.google.com/drive/folders/1osR1rbMSCaxewELft4U1OFW7MN4jSdF_?usp=sharing" target="_blank">🏅 View Achievements</a></td>
+      <td rowspan="2"><a href="https://drive.google.com/drive/folders/1UqZyK_lqfGhJlSXYKlQy3dolpUHnotBO?usp=sharing" target="_blank">🏅 View Achievements</a></td>
     </tr>
     <tr>
-      <td>🖼️ TResearch Embedded Learning Poster Symposium</td>
+      <td>🖼️ Research Embedded Learning Poster Symposium - held at NMIMS,MUMBAI </td>
+    </tr>
+    <tr>
+      <td>Secured 2nd Runner Up for Poster Symposium Presentation -by Rsearch Club</td>
     </tr>
     <!-- Certifications -->
     <tr>
       <td rowspan="4">📜 Certifications</td>
       <td>🎓 CS109xa: Machine Learning & AI with Python from Harvard | EDX</td>
-      <td rowspan="4"><a href="https://drive.google.com/drive/folders/13iktmzm6OiLOf2VG6hHdOHqaRPjJIIA0?usp=sharing" target="_blank">🎖️ View Certifications</a></td>
+      <td rowspan="4"><a href="https://drive.google.com/drive/folders/1OfCL1_hv0wvflDAfxymueCcfVAmEvQM0?usp=sharing" target="_blank">🎖️ View Certifications</a></td>
     </tr>
     <tr>
       <td>📊 Introduction to Data Science - Cisco Skills for All</td>
