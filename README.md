@@ -61,13 +61,6 @@
       <td style="padding:10px;"><a href="https://github.com/ruth0107/NYC-Green-Taxi-Price-Prediction" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
-      <td style="padding:10px;">❤️ Heart Disease Prediction</td>
-      <td style="padding:10px;">Predicts heart disease based on input parameters such as sugar levels and other relevant health metrics.</td>
-      <td style="padding:10px;">Python, Scikit-learn, Keras, TensorFlow</td>
-      <td style="padding:10px;">Accuracy, Precision-Recall</td>
-      <td style="padding:10px;"><a href="https://github.com/ruth0107/Heart_Disease_Prediction" target="_blank">🔗 View Repository</a></td>
-    </tr>
-    <tr>
       <td style="padding:10px;">🎶 Music Gen using LSTM</td>
       <td style="padding:10px;">Generates Music of Jazz and Piano Music type. Trained on MIDI files</td>
       <td style="padding:10px;">Python, TensorFlow, Keras, NumPy, LSTM</td>
@@ -80,6 +73,13 @@
       <td style="padding:10px;">Python, Scikit-learn, Pandas, PyTorch</td>
       <td style="padding:10px;">Precision-Recall AUC Score</td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Transacxtional-Fraud-Detection-Using-Popular-Algos" target="_blank">🔗 View Repository</a></td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">❤️ Heart Disease Prediction</td>
+      <td style="padding:10px;">Predicts heart disease based on input parameters such as sugar levels and other relevant health metrics.</td>
+      <td style="padding:10px;">Python, Scikit-learn, Keras, TensorFlow</td>
+      <td style="padding:10px;">Accuracy, Precision-Recall</td>
+      <td style="padding:10px;"><a href="https://github.com/ruth0107/Heart_Disease_Prediction" target="_blank">🔗 View Repository</a></td>
     </tr>
   </tbody>
 </table>
