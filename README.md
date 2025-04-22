@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:10px;">📄 Resume Tracking</td>
+      <td style="padding:10px;">📄 AI Resume Tracking</td>
       <td style="padding:10px;">Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering.</td>
       <td style="padding:10px;">Python, Streamlit, Pandas, NumPy, Scikit-learn, PHP</td>
       <td style="padding:10px;">ATS Score Accuracy, Recommendation Precision</td>
