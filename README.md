@@ -114,15 +114,15 @@ You can review my other work here 👉 [GitHub Repositories.](https://github.com
     </tr>
     <!-- Achievements -->
     <tr>
-      <td rowspan="2">🏆 Achievements</td>
+      <td rowspan="3">🏆 Achievements</td>
       <td>🥇 Winner - Webthon 2.0 (12hr Long Hackathon)</td>
       <td rowspan="2"><a href="https://drive.google.com/drive/folders/1UqZyK_lqfGhJlSXYKlQy3dolpUHnotBO?usp=sharing" target="_blank">🏅 View Achievements</a></td>
     </tr>
     <tr>
-      <td>🖼️ Research Embedded Learning Poster Symposium - held at NMIMS,MUMBAI </td>
+      <td>🥉 Secured 2nd Runner Up for Poster Symposium Presentation -by Rsearch Club</td>
     </tr>
     <tr>
-      <td>Secured 2nd Runner Up for Poster Symposium Presentation -by Rsearch Club</td>
+      <td>🖼️ Research Embedded Learning Poster Symposium - held at NMIMS,MUMBAI </td>
     </tr>
     <!-- Certifications -->
     <tr>
