@@ -35,6 +35,7 @@
       <th style="padding:10px;">💡 Use Case</th>
       <th style="padding:10px;">🛠️ Tech Stack</th>
       <th style="padding:10px;">📊 Evaluation Metrics</th>
+      <th style="padding:10px;">🚀 Deployed App</th>
       <th style="padding:10px;">🔗 Repo Link</th>
     </tr>
   </thead>
@@ -44,6 +45,7 @@
       <td style="padding:10px;">Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering.</td>
       <td style="padding:10px;">Python, Streamlit, Pandas, NumPy, Scikit-learn, PHP</td>
       <td style="padding:10px;">ATS Score Accuracy, Recommendation Precision</td>
+      <td style="padding:10px;"><a href="https://resume-analyzer-unt3jxphejn58f9uqewmgq.streamlit.app/" target="_blank">🌐 Live Demo</a></td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Resume-Analyzer" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
@@ -51,6 +53,7 @@
       <td style="padding:10px;">Trained on South Korean Wikipedia information, this tool provides sentiment analysis of text inputs, categorizing them as positive, negative, or neutral.</td>
       <td style="padding:10px;">Python, NLTK, TextBlob, spaCy, Colab</td>
       <td style="padding:10px;">Classification Accuracy, F1-Score</td>
+      <td style="padding:10px;"><a href="https://3f4x5ahmqqpmlyaffvtapp.streamlit.app/" target="_blank">🌐 Live Demo</a></td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Sentiment-Analayser" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
@@ -58,6 +61,7 @@
       <td style="padding:10px;">Estimates taxi fares for NYC green taxis using a dataset from October 2024.</td>
       <td style="padding:10px;">Python, Pandas, NumPy, Scikit-learn, XGBoost</td>
       <td style="padding:10px;">Mean Absolute Error (MAE), R-squared</td>
+      <td style="padding:10px;"><a href="https://nyc-green-taxi-price-prediction-8q8jqqgzdbfq9zev4jo3tc.streamlit.app/" target="_blank">🌐 Live Demo</a></td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/NYC-Green-Taxi-Price-Prediction" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
@@ -65,6 +69,7 @@
       <td style="padding:10px;">Generates Music of Jazz and Piano Music type. Trained on MIDI files</td>
       <td style="padding:10px;">Python, TensorFlow, Keras, NumPy, LSTM</td>
       <td style="padding:10px;">Entropy, KL Divergence, FAD Score, Cosine Similarity, Generated Music Quality (Subjective)</td>
+      <td style="padding:10px;">Run Locally</td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Music-Gen-Validation" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
@@ -72,6 +77,7 @@
       <td style="padding:10px;">Classification Summarization of models trained on transaction data.</td>
       <td style="padding:10px;">Python, Scikit-learn, Pandas, PyTorch</td>
       <td style="padding:10px;">Precision-Recall AUC Score</td>
+      <td style="padding:10px;">Run Locally</td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Transacxtional-Fraud-Detection-Using-Popular-Algos" target="_blank">🔗 View Repository</a></td>
     </tr>
     <tr>
@@ -79,6 +85,7 @@
       <td style="padding:10px;">Predicts heart disease based on input parameters such as sugar levels and other relevant health metrics.</td>
       <td style="padding:10px;">Python, Scikit-learn, Keras, TensorFlow</td>
       <td style="padding:10px;">Accuracy, Precision-Recall</td>
+      <td style="padding:10px;">Run Locally</td>
       <td style="padding:10px;"><a href="https://github.com/ruth0107/Heart_Disease_Prediction" target="_blank">🔗 View Repository</a></td>
     </tr>
   </tbody>
